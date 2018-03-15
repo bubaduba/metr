@@ -1,7 +1,7 @@
-
+.idea/
 ###> symfony/framework-bundle ###
 api/.env
-/public/bundles/
-/var/
-/vendor/
+api/public/bundles/
+api/var/
+api/vendor/
 ###< symfony/framework-bundle ###
